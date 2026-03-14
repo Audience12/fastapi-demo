@@ -1,5 +1,5 @@
 # Test coverage
-tests/
+# tests/ - don't ignore tests!
 
 # Python
 __pycache__/
